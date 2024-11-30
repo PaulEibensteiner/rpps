@@ -1,1 +1,3 @@
 # rpps
+
+This repository contains [Netlogo](https://ccl.northwestern.edu/netlogo/) code implementing the Reversible Primordial Particle System. The file `langtons_ant.nlogo` contains the code to create an arbitrary amount of tiles and then simulate Langton‘s Ant starting at an arbitrary tile. The file `detailed_left_turn.nlogo` shows one left turn of a simulated Langton‘s Ant while also showing all particle‘s radii.
